@@ -1,0 +1,6 @@
+{"_id":{"$oid":"69398e143e7ea7386963b112"},"RollNo":1,"Age":21,"Cont":9876,"email":"antara.de9@gmail.com"}
+{"_id":{"$oid":"69398e1b3e7ea7386963b113"},"RollNo":2,"Age":22,"Cont":9976,"email":"anushka.de9@gmail.com"}
+{"_id":{"$oid":"69398e213e7ea7386963b114"},"RollNo":3,"Age":21,"Cont":5576,"email":"anubhav.de9@gmail.com"}
+{"_id":{"$oid":"69398e273e7ea7386963b115"},"RollNo":4,"Age":20,"Cont":4476,"email":"pani.de9@gmail.com"}
+{"_id":{"$oid":"69398e313e7ea7386963b116"},"RollNo":10,"Age":23,"Cont":2276,"email":"Abhinav@gmail.com"}
+{"_id":{"$oid":"69398f5d3e7ea7386963b117"},"RollNo":11,"Age":22,"Name":"FEM","Cont":2276,"email":"ABC@gmail.com"}
